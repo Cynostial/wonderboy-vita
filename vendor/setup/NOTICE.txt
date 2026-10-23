@@ -1,0 +1,6 @@
+Installer codecs copied from the pinned vitaGL checkout.
+
+Harm Hanemaaijer: detex ETC2/EAC decoder (ISC-style licence in source).
+STB image decoder: stb_image v2.25 (public domain/MIT, licence in source).
+STB BC1/BC3 encoder: vitaGL stb_dxt v1.09; retain its LGPLv3 and upstream licence notices.
+Local portability changes: replace vitaGL shared/memory includes with standard C types and memcpy/memset; explicit byte-pointer casts in the full-image decoder.

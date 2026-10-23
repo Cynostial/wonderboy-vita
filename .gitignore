@@ -1,0 +1,16 @@
+/build/
+/assets/
+/inputs/
+/releases/
+__pycache__/
+*.pyc
+*.vpk
+*.apk
+*.obb
+*.so
+*.elf
+*.velf
+*.o
+*.a
+*.log
+*.dmp

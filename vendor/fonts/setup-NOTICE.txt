@@ -1,0 +1,4 @@
+Josefin Sans setup font bitmap subset.
+Copyright (c) 2010 Typemade (hi@typemade.mx).
+Licensed under SIL Open Font License 1.1; see OFL.txt.
+Rendered from JosefinSans-SemiBold.ttf at 24 pixels; ASCII glyphs only.

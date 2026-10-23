@@ -1,0 +1,18 @@
+WB Game CJK JP, SC and TC (Regular and Medium)
+
+Derived from Noto Sans CJK, as included in the game's original font assets.
+Copyright (c) 2014, 2015 Adobe Systems Incorporated (http://www.adobe.com/).
+Licensed under the SIL Open Font License, Version 1.1; see fonts-OFL.txt
+in the package, or OFL.txt alongside this source notice.
+
+Modifications for this port: retain characters used by the game's text assets
+and native read-only strings, plus U+0020 through U+33FF and U+FFFD where mapped.
+Unused glyphs and their unused subroutines are removed. Internal family and
+PostScript names are changed to WB Game CJK / WBGameCJK. Original copyright
+and license metadata are preserved. Retained outlines, advances, vertical
+metrics and representative raster output are checked against the originals.
+The filenames remain as aliases for the game's existing file requests.
+The original full fonts are not modified.
+
+Full OFL text retrieved from:
+https://raw.githubusercontent.com/notofonts/noto-cjk/main/Sans/LICENSE

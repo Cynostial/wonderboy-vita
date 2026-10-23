@@ -1,0 +1,51 @@
+{
+  "native_revision": "00.34",
+  "application_version": "00.35",
+  "title_id": "WBDT00001",
+  "compiler_version": "arm-vita-eabi-gcc.exe (GNU Tools for ARM Embedded Processors) 10.3.0",
+  "required_archives": {
+    "arm-vita-eabi/lib/libvitaGL.a": "5c3798f71c4467526d051750f4699d12452d9461053fda96a31bef76aad0b8b6",
+    "arm-vita-eabi/lib/libSDL2.a": "42afbd10cf59a83d4435c86c56fe5dcfbcd6c34db065e1c2208152d85d4968d0"
+  },
+  "reference_archives": {
+    "arm-vita-eabi/lib/libSDL2.a": "42afbd10cf59a83d4435c86c56fe5dcfbcd6c34db065e1c2208152d85d4968d0",
+    "arm-vita-eabi/lib/libSceAppMgr_stub.a": "faabce106b63269dff2707ff1a7f5529f9e615ea86efe2821e65cba2023d5772",
+    "arm-vita-eabi/lib/libSceAppUtil_stub.a": "205afc9bc96df5745574a3dac522e06daa6b213d53d94a8538fd76600a1cc91d",
+    "arm-vita-eabi/lib/libSceAudioIn_stub.a": "d68135f46a09dffdf24eaf9c8ac63397d5ec344385f4c59c0fc405f65c36bfea",
+    "arm-vita-eabi/lib/libSceAudio_stub.a": "50d5e43e3ba839b34ae317bbdd0bebc8e85d6796ab1ad395f855b1602d6461e7",
+    "arm-vita-eabi/lib/libSceCommonDialog_stub.a": "0372adaf34d21cfdb9b7607f7cc66696525dcec6f014f68ec251c5f316f7b53f",
+    "arm-vita-eabi/lib/libSceCtrl_stub.a": "6c625c14a96dbd76e628ecd003013265ac38d84e77e8d9ecb6fd9202f5d12707",
+    "arm-vita-eabi/lib/libSceDisplay_stub.a": "b32f37686fe02dcc64ba76c4d4aefe530f512ffe017ac6c1a00b30b17325289b",
+    "arm-vita-eabi/lib/libSceGxm_stub.a": "bb1767dfec70a1cd48961a8c6396b7258f9cf1af1d0558ba3ebd84c0ce5553b8",
+    "arm-vita-eabi/lib/libSceHid_stub.a": "071d3425c646883bf2f4256659a481d7422f2af217ea15cfa6c2d2415832e34d",
+    "arm-vita-eabi/lib/libSceIme_stub.a": "cdec02e5d35acb9f6acca68da073d8ea03149f25ec2c46d07de7913d89f38aaf",
+    "arm-vita-eabi/lib/libSceIofilemgr_stub.a": "7659108dfe5b3cd6fc250122b89b44bd61abaeb581a4e78eb677658014777ca2",
+    "arm-vita-eabi/lib/libSceKernelDmacMgr_stub.a": "c5ee70534a5655028da8028408d587233b6f6cc47b2f83c371917bddbebd9562",
+    "arm-vita-eabi/lib/libSceLibKernel_stub.a": "f07fa80bb984013886ecce1edc7a927225963941de797b88e5202f7d8a1128b0",
+    "arm-vita-eabi/lib/libSceMotion_stub.a": "8aaae88b3e8eabe56bc7aa7b3054555bbddf15ad896b6f96c6258f2a1203c6f9",
+    "arm-vita-eabi/lib/libScePower_stub.a": "52393e610ff4cb83c25b2d934955e4023997fd475366d08819fea1a7ede7e5c9",
+    "arm-vita-eabi/lib/libSceProcessmgr_stub.a": "94261372fd3b4ef91303fa7add45c24b8be8c078e027afb577875c5236e97e14",
+    "arm-vita-eabi/lib/libSceShaccCgExt.a": "eefeafcca76986f2273cacd3202853efe24c8a28b969c596a9d29d7b7d49beb6",
+    "arm-vita-eabi/lib/libSceShaccCg_stub.a": "01d3ba2168781d140b44387247ce674dbfb6bd0d600e90ab099ddb34a1e87a21",
+    "arm-vita-eabi/lib/libSceSysmodule_stub.a": "1202e18adf399fb8460dcae0c7fdc65082dc12feda2af09cde17b171e3b22d5c",
+    "arm-vita-eabi/lib/libSceTouch_stub.a": "d99a8bcd625e4ef251f1e5a852f5d804add83b6119c4075f40d9063b909488c0",
+    "arm-vita-eabi/lib/libSceVshBridge_stub.a": "320bd6925eb90515dfd9c5e6ee8fdaf9307d0a53dc8bcb228cb998f2370c3550",
+    "arm-vita-eabi/lib/libc.a": "9a8036e6014b6a50da9ae506a0c077ce4062a28fe91f878c422d8e0ac0746fe1",
+    "lib/gcc/arm-vita-eabi/10.3.0/libgcc.a": "58240b986466828346067868ad1c037f8e793e2d3e9a502a77fce029165cd2ff",
+    "arm-vita-eabi/lib/libkubridge_stub.a": "daae5d1883594a5210941ff51cff2c758baeb481f59495fb21d61ebaaee54a0e",
+    "arm-vita-eabi/lib/libm.a": "de88097f0071bb9d57f2468f22e3e6bb57d76b51b2964b51df15f4485992f8a5",
+    "arm-vita-eabi/lib/libmathneon.a": "8074a396a5b98e0fa25566f472918ec33a5f5f97b5c6dc86067ec3346cf38f32",
+    "arm-vita-eabi/lib/libpthread.a": "dde118676fc710b523709cee42a1cbebc704e1165c9b34cc93606370e83b8662",
+    "arm-vita-eabi/lib/libstdc++.a": "9e5704280f944f9869cab56846291584ef39aed4b5e604f39317fd28ea7bdad5",
+    "arm-vita-eabi/lib/libtaihen_stub.a": "4214a54c8cce73834aa023860b310e2d210e6bcb4186da6a85dc425a94469938",
+    "arm-vita-eabi/lib/libvitaGL.a": "5c3798f71c4467526d051750f4699d12452d9461053fda96a31bef76aad0b8b6",
+    "arm-vita-eabi/lib/libvitashark.a": "f05a1c505b2e74582420b060640a655c2e0f0187d682091e5e6458a9bf0c3397",
+    "arm-vita-eabi/lib/libz.a": "8c78d61c10c880fc512f1f85db1d3264886cf5f128c52be83e005122feaa521f"
+  },
+  "external_dependencies": {
+    "vitaGL": "https://github.com/Rinnegatamante/vitaGL",
+    "SDL": "https://github.com/libsdl-org/SDL",
+    "VitaSDK": "https://github.com/vitasdk",
+    "kubridge": "https://github.com/bythos14/kubridge"
+  }
+}
